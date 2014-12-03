@@ -1,4 +1,0 @@
-aQueryMobile
-============
-
-android query mobile
